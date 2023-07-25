@@ -100,7 +100,6 @@ export default function ScheduleForm() {
                 <Button variant="contained" color="primary" type="submit">
                     Submit
                 </Button>
-
             </form>
         </Box>
     );
